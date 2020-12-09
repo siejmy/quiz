@@ -1,0 +1,6 @@
+[submodule "quiz-abcd"]
+	path = quiz-abcd
+	url = git@github.com:siejmy/quiz-abcd.git
+[submodule "quiz-hosting"]
+	path = quiz-hosting
+	url = git@github.com:siejmy/quiz-hosting.git
