@@ -2,6 +2,15 @@
   "folders": [
     {
       "path": ".."
+    },
+    {
+      "path": "../quiz-abcd"
+    },
+    {
+      "path": "../quiz-hosting"
+    },
+    {
+      "path": "../quiz-hosting/runs"
     }
   ],
   "settings": {
