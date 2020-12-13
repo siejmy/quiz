@@ -11,6 +11,9 @@
     },
     {
       "path": "../quiz-hosting/runs"
+    },
+    {
+      "path": "../quiz-abcd/backend"
     }
   ],
   "settings": {
